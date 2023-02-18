@@ -107,9 +107,9 @@ body {
 
     .wrapper > .message > .message-box > .avatar {
         display: grid;
-        width: 300px;
-        height: 300px;
-        border-radius: 24px;
+        width: 230px;
+        height: 240px;
+        border-radius: 10px;
         background-color: var(--gray0009);
         background-image: url("asset/img/ayang.jpeg");
         background-size: cover;
@@ -216,8 +216,8 @@ body {
 
     .wrapper > .message > .message-box > .avatar {
         display: grid;
-        width: 270px;
-        height: 400px;
+         width: 200px;
+        height: 250px;
         border-radius: 30px;
         background-color: var(--gray0009);
         background-image: url("asset/img/ayang.jpeg");

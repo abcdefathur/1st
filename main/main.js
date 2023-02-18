@@ -11,7 +11,7 @@ let message = [];
 
 message[0] = "Hallo cantikkkkkk";
 message[1] = "xixixixixi";
-message[2] = "widih ga terasa kitaa nii da setahun lebih ya ayang";
+message[2] = "ga kerasa kitaa ni da setahun lebih ya ayang";
 message[3] = "selamattt satu tahun sayangkuu";
 message[4] = "walopun ketemunya cuma bisa keitung jari";
 message[5] = "WKWKWKWKKWK";
